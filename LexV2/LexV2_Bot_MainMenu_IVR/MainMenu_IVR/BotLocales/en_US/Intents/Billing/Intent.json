@@ -1,0 +1,1 @@
+{"name":"Billing","identifier":"NZAF0Q349O","description":null,"parentIntentSignature":null,"sampleUtterances":[{"utterance":"Billing"},{"utterance":"Billing One"}],"intentConfirmationSetting":null,"intentClosingSetting":null,"inputContexts":null,"outputContexts":null,"kendraConfiguration":null,"dialogCodeHook":null,"fulfillmentCodeHook":null,"slotPriorities":[]}

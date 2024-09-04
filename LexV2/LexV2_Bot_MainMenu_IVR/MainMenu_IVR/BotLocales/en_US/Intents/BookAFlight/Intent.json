@@ -1,0 +1,1 @@
+{"name":"BookAFlight","identifier":"OWMSIEWN9O","description":null,"parentIntentSignature":null,"sampleUtterances":[{"utterance":"Book a Flight"}],"intentConfirmationSetting":null,"intentClosingSetting":null,"inputContexts":null,"outputContexts":null,"kendraConfiguration":null,"dialogCodeHook":null,"fulfillmentCodeHook":null,"slotPriorities":[]}

@@ -1,0 +1,1 @@
+{"name":"NewService","identifier":"M5OTG19NTQ","description":null,"parentIntentSignature":null,"sampleUtterances":[{"utterance":"New Service"}],"intentConfirmationSetting":null,"intentClosingSetting":null,"inputContexts":null,"outputContexts":null,"kendraConfiguration":null,"dialogCodeHook":null,"fulfillmentCodeHook":null,"slotPriorities":[]}
