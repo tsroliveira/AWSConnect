@@ -13,4 +13,4 @@ Bem-vindo ao repositório de projetos relacionados ao Amazon Connect! Aqui você
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/SeuUsuario/amazon-connect-projects.git
+   git clone ttps://github.com/tsroliveira/AWSConnect.git
